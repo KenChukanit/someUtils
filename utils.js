@@ -12,3 +12,7 @@ function power(a,b){
     let c =a**b;
     return c;
 }
+function subtract(a,b){
+let c = b - a;
+return c;
+}
