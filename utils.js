@@ -16,3 +16,7 @@ function subtract(a,b){
 let c = b - a;
 return c;
 }
+function add(a,b) {
+    let c = a+b;
+    return c;
+}
